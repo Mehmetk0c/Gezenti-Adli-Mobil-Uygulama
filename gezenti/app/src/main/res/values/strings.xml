@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gezenti</string>
+    <string name="create_account"><font color="#00ff00">Metin</font></string>
+    <string name="email">E-Posta</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="back_to_login">Giriş Ekranına Dön</string>
+    <string name="title_activity_maps">Harita</string>
+</resources>
